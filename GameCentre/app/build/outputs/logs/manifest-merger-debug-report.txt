@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a91ace491fe870e30f480b73ac0a5f25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0fcb433c91948d952d91c85d85827018/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/97aa0288cd802d94e1f46ee5393fd2dc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a895b087c8b21f0c9153331a8686c377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ac246b1b7ae2fa8dda3c8a4e31e59d06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/98c1820f189b3df537754946fbb2c197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ecdac879207c1427b9cadbe0ba35341e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5b3463fd3f154eb7337366ac43f3d0c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8cc3bc56172dd33dab44de58bfe0007/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c52265b1fd81935266a02896e065538a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b421610dc265cbb3f2fe840361434b75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0a678d5887aa17e0efd9442d4ab42b32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/270f67d0c2d36cca3f4280c147eff6e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96b45328d60d4aef753b7a8110d42ec6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/88956b63390b70ad0956fc1d1d371549/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9847391fb09fa96e7c2edab19b0f6df1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c70f3df08bf6b4eea5c5118c201b6f91/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:11:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/97aa0288cd802d94e1f46ee5393fd2dc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/97aa0288cd802d94e1f46ee5393fd2dc/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:17:9-65
+activity#generalactivities.LoginActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:18:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:22:27-74
+activity#fall2018.csc2017.slidingtiles.StartingActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:25:19-51
+activity#fall2018.csc2017.slidingtiles.GameActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:26:19-47
+activity#generalactivities.GameSelectionActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:27:9-76
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:27:19-73
+activity#generalactivities.MenuActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:28:9-31:72
+	android:label
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:29:13-58
+activity#fall2018.csc2017.slidingtiles.SlidingTilesScoreBoardActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:32:9-35:72
+	android:label
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:34:13-77
+	android:theme
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:33:13-59
+activity#fall2018.csc2017.slidingtiles.SlidingTilesComplexityActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:36:19-65
+activity#fall2018.csc2017.slidingtiles.DownloadingActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:37:9-57
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:37:19-54
+activity#generalactivities.SettingActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:38:19-67
+activity#fall2018.csc2017.pong.PongGameActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:39:9-75
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:39:19-72
+activity#fall2018.csc2017.pong.PongStartingActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:40:9-79
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:40:19-76
+activity#fall2018.csc2017.coldwar.ColdWarMainActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:41:9-81
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:41:19-78
+activity#fall2018.csc2017.pong.PongScoreBoardActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:42:9-81
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:42:19-78
+activity#fall2018.csc2017.coldwar.UserPiecesSelectionActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:43:9-89
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:43:19-86
+activity#fall2018.csc2017.coldwar.GuestPiecesSelectionActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:44:9-90
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:44:19-87
+activity#fall2018.csc2017.coldwar.ColdWarMenu
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:45:9-73
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:45:19-70
+activity#fall2018.csc2017.coldwar.ColdWarScoreBoardActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:46:9-87
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:46:19-84
+activity#fall2018.csc2017.coldwar.InstructionActivity
+ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:47:9-90
+	android:name
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:47:19-78
+uses-sdk
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a91ace491fe870e30f480b73ac0a5f25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/a91ace491fe870e30f480b73ac0a5f25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0fcb433c91948d952d91c85d85827018/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0fcb433c91948d952d91c85d85827018/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/97aa0288cd802d94e1f46ee5393fd2dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/97aa0288cd802d94e1f46ee5393fd2dc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a895b087c8b21f0c9153331a8686c377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/a895b087c8b21f0c9153331a8686c377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ac246b1b7ae2fa8dda3c8a4e31e59d06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ac246b1b7ae2fa8dda3c8a4e31e59d06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/98c1820f189b3df537754946fbb2c197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/98c1820f189b3df537754946fbb2c197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ecdac879207c1427b9cadbe0ba35341e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/ecdac879207c1427b9cadbe0ba35341e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5b3463fd3f154eb7337366ac43f3d0c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5b3463fd3f154eb7337366ac43f3d0c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8cc3bc56172dd33dab44de58bfe0007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8cc3bc56172dd33dab44de58bfe0007/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c52265b1fd81935266a02896e065538a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c52265b1fd81935266a02896e065538a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b421610dc265cbb3f2fe840361434b75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b421610dc265cbb3f2fe840361434b75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0a678d5887aa17e0efd9442d4ab42b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/0a678d5887aa17e0efd9442d4ab42b32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/270f67d0c2d36cca3f4280c147eff6e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/270f67d0c2d36cca3f4280c147eff6e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96b45328d60d4aef753b7a8110d42ec6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/96b45328d60d4aef753b7a8110d42ec6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/88956b63390b70ad0956fc1d1d371549/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/88956b63390b70ad0956fc1d1d371549/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9847391fb09fa96e7c2edab19b0f6df1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9847391fb09fa96e7c2edab19b0f6df1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c70f3df08bf6b4eea5c5118c201b6f91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yuwayokohama/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c70f3df08bf6b4eea5c5118c201b6f91/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yuwayokohama/Desktop/Computer Science/CSC 207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
